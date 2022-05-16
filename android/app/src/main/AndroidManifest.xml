@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tarea_flutter_sara">
+    package="com.sara.tarea_flutter_sara">
    <application
-        android:label="tarea_flutter_sara"
+        android:label="Perfil Sara"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
